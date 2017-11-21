@@ -20,20 +20,17 @@
       <file leaf-file-name="nojBot.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nojBot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            <state relative-caret-position="109">
+              <caret line="34" column="22" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="387" selection-end-column="0" />
               <folding>
-                <element signature="e#2377#2452#0" expanded="false" />
-                <element signature="e#3196#3323#0" expanded="false" />
-                <element signature="e#4418#4467#0" expanded="false" />
-                <element signature="e#6609#6655#0" expanded="false" />
-                <element signature="method#jedConfirm#0;class#nojBot#0" expanded="false" />
+                <element signature="e#2430#2505#0" expanded="false" />
+                <element signature="e#4137#4186#0" expanded="false" />
+                <element signature="e#6524#6570#0" expanded="false" />
                 <element signature="method#jedRemove#0;class#nojBot#0" expanded="false" />
                 <element signature="method#getFullname#0;class#nojBot#0" expanded="false" />
                 <element signature="method#userExist#0;class#nojBot#0" expanded="false" />
                 <element signature="method#jed#0;class#nojBot#0" expanded="false" />
                 <element signature="method#sendMsg#0;class#nojBot#0" expanded="false" />
-                <element signature="method#getDatebyDay#0;class#nojBot#0" expanded="false" />
                 <element signature="method#printStatus#0;class#nojBot#0" expanded="false" />
                 <element signature="method#getDayNo#0;class#nojBot#0" expanded="false" />
                 <element signature="method#getStat#0;class#nojBot#0" expanded="false" />
@@ -49,8 +46,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="59" />
+            <state relative-caret-position="102">
+              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,15 +79,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/v1.3.1 code" />
+        <option value="$PROJECT_DIR$/src/META-INF/v1.3.2 code" />
         <option value="$PROJECT_DIR$/src/nojBot.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -107,8 +105,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,12 +120,17 @@
               <item name="NojBot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NojBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NojBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,7 +140,12 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestBot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\justin.chan\IdeaProjects\NojBot\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,12 +275,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -282,7 +291,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -302,7 +311,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -312,17 +321,48 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2377#2452#0" expanded="false" />
-            <element signature="e#3196#3323#0" expanded="false" />
-            <element signature="e#4418#4467#0" expanded="false" />
-            <element signature="e#6609#6655#0" expanded="false" />
-            <element signature="method#jedConfirm#0;class#nojBot#0" expanded="false" />
+            <element signature="e#2430#2505#0" expanded="false" />
+            <element signature="e#4137#4186#0" expanded="false" />
+            <element signature="e#6524#6570#0" expanded="false" />
             <element signature="method#jedRemove#0;class#nojBot#0" expanded="false" />
             <element signature="method#getFullname#0;class#nojBot#0" expanded="false" />
             <element signature="method#userExist#0;class#nojBot#0" expanded="false" />
             <element signature="method#jed#0;class#nojBot#0" expanded="false" />
             <element signature="method#sendMsg#0;class#nojBot#0" expanded="false" />
-            <element signature="method#getDatebyDay#0;class#nojBot#0" expanded="false" />
+            <element signature="method#printStatus#0;class#nojBot#0" expanded="false" />
+            <element signature="method#getDayNo#0;class#nojBot#0" expanded="false" />
+            <element signature="method#getStat#0;class#nojBot#0" expanded="false" />
+            <element signature="method#deleteDoc#0;class#nojBot#0" expanded="false" />
+            <element signature="method#checkDate#0;class#nojBot#0" expanded="false" />
+            <element signature="method#getDatebyDate#0;class#nojBot#0" expanded="false" />
+            <element signature="method#compareDate#0;class#nojBot#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nojBot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#2430#2505#0" expanded="false" />
+            <element signature="e#4137#4186#0" expanded="false" />
+            <element signature="e#6524#6570#0" expanded="false" />
+            <element signature="method#jedRemove#0;class#nojBot#0" expanded="false" />
+            <element signature="method#getFullname#0;class#nojBot#0" expanded="false" />
+            <element signature="method#userExist#0;class#nojBot#0" expanded="false" />
+            <element signature="method#jed#0;class#nojBot#0" expanded="false" />
+            <element signature="method#sendMsg#0;class#nojBot#0" expanded="false" />
             <element signature="method#printStatus#0;class#nojBot#0" expanded="false" />
             <element signature="method#getDayNo#0;class#nojBot#0" expanded="false" />
             <element signature="method#getStat#0;class#nojBot#0" expanded="false" />
@@ -349,17 +389,48 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2377#2452#0" expanded="false" />
-            <element signature="e#3196#3323#0" expanded="false" />
-            <element signature="e#4418#4467#0" expanded="false" />
-            <element signature="e#6609#6655#0" expanded="false" />
-            <element signature="method#jedConfirm#0;class#nojBot#0" expanded="false" />
+            <element signature="e#2430#2505#0" expanded="false" />
+            <element signature="e#4137#4186#0" expanded="false" />
+            <element signature="e#6524#6570#0" expanded="false" />
             <element signature="method#jedRemove#0;class#nojBot#0" expanded="false" />
             <element signature="method#getFullname#0;class#nojBot#0" expanded="false" />
             <element signature="method#userExist#0;class#nojBot#0" expanded="false" />
             <element signature="method#jed#0;class#nojBot#0" expanded="false" />
             <element signature="method#sendMsg#0;class#nojBot#0" expanded="false" />
-            <element signature="method#getDatebyDay#0;class#nojBot#0" expanded="false" />
+            <element signature="method#printStatus#0;class#nojBot#0" expanded="false" />
+            <element signature="method#getDayNo#0;class#nojBot#0" expanded="false" />
+            <element signature="method#getStat#0;class#nojBot#0" expanded="false" />
+            <element signature="method#deleteDoc#0;class#nojBot#0" expanded="false" />
+            <element signature="method#checkDate#0;class#nojBot#0" expanded="false" />
+            <element signature="method#getDatebyDate#0;class#nojBot#0" expanded="false" />
+            <element signature="method#compareDate#0;class#nojBot#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nojBot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#2430#2505#0" expanded="false" />
+            <element signature="e#4137#4186#0" expanded="false" />
+            <element signature="e#6524#6570#0" expanded="false" />
+            <element signature="method#jedRemove#0;class#nojBot#0" expanded="false" />
+            <element signature="method#getFullname#0;class#nojBot#0" expanded="false" />
+            <element signature="method#userExist#0;class#nojBot#0" expanded="false" />
+            <element signature="method#jed#0;class#nojBot#0" expanded="false" />
+            <element signature="method#sendMsg#0;class#nojBot#0" expanded="false" />
             <element signature="method#printStatus#0;class#nojBot#0" expanded="false" />
             <element signature="method#getDayNo#0;class#nojBot#0" expanded="false" />
             <element signature="method#getStat#0;class#nojBot#0" expanded="false" />
@@ -381,40 +452,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/v1.3.1 code">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="59" />
+          <caret line="243" column="0" lean-forward="true" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1.3.2 code">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="349" column="5" lean-forward="true" selection-start-line="349" selection-start-column="5" selection-end-line="349" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/v1.3.1 code">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="243" column="0" lean-forward="true" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nojBot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="109">
+          <caret line="34" column="22" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="387" selection-end-column="0" />
           <folding>
-            <element signature="e#2377#2452#0" expanded="false" />
-            <element signature="e#3196#3323#0" expanded="false" />
-            <element signature="e#4418#4467#0" expanded="false" />
-            <element signature="e#6609#6655#0" expanded="false" />
-            <element signature="method#jedConfirm#0;class#nojBot#0" expanded="false" />
+            <element signature="e#2430#2505#0" expanded="false" />
+            <element signature="e#4137#4186#0" expanded="false" />
+            <element signature="e#6524#6570#0" expanded="false" />
             <element signature="method#jedRemove#0;class#nojBot#0" expanded="false" />
             <element signature="method#getFullname#0;class#nojBot#0" expanded="false" />
             <element signature="method#userExist#0;class#nojBot#0" expanded="false" />
             <element signature="method#jed#0;class#nojBot#0" expanded="false" />
             <element signature="method#sendMsg#0;class#nojBot#0" expanded="false" />
-            <element signature="method#getDatebyDay#0;class#nojBot#0" expanded="false" />
             <element signature="method#printStatus#0;class#nojBot#0" expanded="false" />
             <element signature="method#getDayNo#0;class#nojBot#0" expanded="false" />
             <element signature="method#getStat#0;class#nojBot#0" expanded="false" />
