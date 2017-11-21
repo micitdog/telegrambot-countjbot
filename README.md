@@ -17,8 +17,17 @@ http://mongodb.github.io/mongo-java-driver/3.5/driver/getting-started/quick-star
 
 If you have any enquiries, feel free to email to me: justinixework@gmail.com
 
+## Usage
 
-edited at 20/11/2017
+|command|info|
+|---|---|
+|`/start`|建立打J記錄 e.g. /start 5|
+|`/status`|查看打J記錄|
+|`/jed`|破戒|
+|`/help`|查看指令|
+
+## Author
+Justin Chan
 
 ---
 note to myself:
